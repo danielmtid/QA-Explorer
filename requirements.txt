@@ -1,0 +1,8 @@
+dash
+flask
+pandas
+sqlalchemy
+plotly
+requests
+pymysql
+pytest
